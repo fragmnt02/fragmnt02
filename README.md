@@ -1,4 +1,37 @@
-### Hi there 👋
+# Hola / Hi 👋 I'm Francisco and this is my github profile 
+
+## 👨‍💻 Stack
+
+### Programming Languages:
+* Javascript / Typescript
+* Go
+* Java
+
+### Frontend:
+* React
+* Angular (I really like more react but I have experience in angular because work)
+
+### Backend REST/GRAPHQL:
+* Next js
+* Express js
+* Apollo server
+
+### Other Tools:
+* Node js
+* Deno
+* Visual Studio Code
+* Firebase
+* Google Cloud Functions
+
+## 📈 Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=fragmnt02&show_icons=true&hide_border=true)
+  
+## 👷 I’m currently working on
+EPAM Systems on site at Google - Software Engineer
+
+## 📫 How to reach me
+* fragmnt02@gmail.com
+* [linkedin.com/in/arcegarcia](https://www.linkedin.com/in/arcegarcia/)
 
 <!--
 **fragmnt02/fragmnt02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
