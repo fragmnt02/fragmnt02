@@ -4,8 +4,6 @@
 
 ### Programming Languages:
 * Javascript / Typescript
-* Go
-* Java
 
 ### Frontend:
 * React
@@ -21,7 +19,7 @@
 * Deno
 * Visual Studio Code
 * Firebase
-* Google Cloud Functions
+* Google Cloud
 
 ## 📈 Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fragmnt02&show_icons=true&hide_border=true)
