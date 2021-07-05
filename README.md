@@ -27,7 +27,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fragmnt02&show_icons=true&hide_border=true)
   
 ## 👷 I’m currently working on
-EPAM Systems on site at Google - Software Engineer
+Distillery
 
 ## 📫 How to reach me
 * fragmnt02@gmail.com
